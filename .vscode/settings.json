@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "linktree project",
+    "id": "667b56c13d5516b3510e1f5a",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/simonflausch/Desktop/inspi linktree/linktree project html-css/linktree html css/src/components",
+    "screensPath": "/Users/simonflausch/Desktop/inspi linktree/linktree project html-css/linktree html css/src/pages"
+  }
+}
